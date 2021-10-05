@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "demo",
-    introTitle: 'Nguyễn Huyền Diệu',
+    introTitle: 'Gửi Vợ Nguyễn Huyền Diệu',
     introDesc: `Đàn ông khi đã thấy bông hoa hồng rồi,
     Thì những bồng hoa khác chỉ là cỏ dại mà thôi.
      Bông hoa đó không ai khác ngoài em đấy🥰🥰
@@ -13,7 +13,7 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu công chúa của anh nhiều lắm 😘😘',
+    mess: 'Anh biết mà 🥰. Yêu công chúa của anh nhiều lắm 😘😘',
     messDesc: 'Em là công chúa của cả đời anh nhé ❤❤❤.',
     btnAccept: 'Okiiiii lun <3',
 }
