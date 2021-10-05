@@ -2,8 +2,8 @@ const CONFIG = {
     titleWeb: "demo",
     introTitle: 'Nguyễn Huyền Diệu',
     introDesc: `Đàn ông khi đã thấy bông hoa hồng rồi,
-    Thì những bồng hoa khác chỉ là cỏ dại mà thôi
-    Bông hoa đó không ai khác ngoài em đấy🥰🥰
+    Thì những bồng hoa khác chỉ là cỏ dại mà thôi.
+     Bông hoa đó không ai khác ngoài em đấy🥰🥰
     Yêu cô công chúa của anh lắm `,
     btnIntro: '^^HiHi^^',
     title: 'Trái tim anh là thiên đường chỉ giành cho thiên thần xinh đẹp 🥰',
